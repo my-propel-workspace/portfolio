@@ -1,0 +1,4 @@
+[submodule "site/public"]
+	path = site/public
+	url = git@github.com:mahesh-sanikommu/mahesh-sanikommu.github.io.git
+	branch = master
