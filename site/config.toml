@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "Mahesh Sanikommu"
 theme = "resume"
@@ -9,7 +9,7 @@ theme = "resume"
     address = "San Ramon, CA"
     phone = "1-785-214-3209"
     contactNote = "Dev Tools Engineer"
-    profileImage = "img/13221336_10209547928000774_7125687210749509266_o.jpg"
+    profileImage = "/img/13221336_10209547928000774_7125687210749509266_o.jpg"
     email = "maheshreddy.sanikommu@ge.com"
     description = "Sr Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
     favicon = "images/favicon.ico"
@@ -25,12 +25,12 @@ theme = "resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
+    link = "https://linkedin.com/in/mahesh-reddy-sanikommu-44b132172"
 
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://github.com/mahesh-sanikommu/"
 
 [[params.handles]]
     name = "Bitbucket"
