@@ -1,20 +1,20 @@
 [
-    {
-        "role":"Sr Software Engineer",
-        "company":"GE Digital",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"September 2017 - Present"
-    },
-    {
-        "role":"Software Engineer",
-        "company":"Idril Services",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2016 - August 2017"
-    },
-    {
-        "role":"Jr Developer",
-        "company":"INDUS NETWORKS LTD.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2012 - June 2013"
-    }
+  {
+    "role": "Sr Software Engineer",
+    "company": "GE Digital",
+    "summary": "Worked on CI/CD self-service dashboard where developers and DevOps engineers can instantiate and integrate with various tools in the CI/CD lifecycle.",
+    "range": "September 2017 - Present"
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Idril Services",
+    "summary": "Created dashbord for continuous deployment.",
+    "range": "March 2016 - August 2017"
+  },
+  {
+    "role": "Jr Developer",
+    "company": "INDUS NETWORKS LTD.",
+    "summary": "Involved in developing the UI pages using HTML, DHTML, CSS, JavaScript, JSON, jQuery, Ajax",
+    "range": "February 2012 - June 2013"
+  }
 ]

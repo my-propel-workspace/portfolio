@@ -1,24 +1,54 @@
 [
   {
-      "grouping":"Architecture",
-      "skills":[ "IP Networking","DNS","Firewalls","Load Balancing","Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
-  },{
-      "grouping":"Languages, Operating Systems & Tools",
-      "skills":[ "Java","Python","git","subversion","linux","bash","php","jquery","javascript","go"]
+    "grouping": "Architecture",
+    "skills": [
+      "IP Networking",
+      "DNS",
+      "Firewalls",
+      "Load Balancing",
+      "Microservices",
+      "RESTful APIs",
+      "SaaS/PaaS/IaaS"
+    ]
   },
   {
-      "grouping":"Platform Development & Administration",
-      "skills":[ "Atlassian","Bamboo","Bitbucket","NGINX","MySQL","Wordpress"]
+    "grouping": "Languages, Operating Systems & Tools",
+    "skills": [
+      "Java",
+      "javascript",
+      "Python",
+      "git",
+      "subversion",
+      "linux",
+      "bash",
+      "php",
+      "go"
+    ]
   },
   {
-    "grouping":"Containers & Cloud",
-      "skills":[
-          {"name":"BOSH","link":"https://bosh.io"},
-          {"name":"Docker","link":"https://docker.com"},
-          {"name":"AWS","link":"https://aws.amazon.com"},
-          {"name":"Google Cloud","link":"https://cloud.google.com"},
-          {"name":"Linux","link":"https://bosh.io"},
-          {"name":"Mesosphere","link":"https://mesosphere.com"}
-      ]
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      "Atlassian",
+      "Bamboo",
+      "Bitbucket",
+      "NGINX",
+      "MySQL",
+      "Wordpress"
+    ]
+  },
+  {
+    "grouping": "Frameworks and Libraries",
+    "skills": ["React", "Angular", "PolymerJs", "JQuery", "NodeJs"]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      { "name": "BOSH", "link": "https://bosh.io" },
+      { "name": "Docker", "link": "https://docker.com" },
+      { "name": "AWS", "link": "https://aws.amazon.com" },
+      { "name": "Google Cloud", "link": "https://cloud.google.com" },
+      { "name": "Linux", "link": "https://bosh.io" },
+      { "name": "Mesosphere", "link": "https://mesosphere.com" }
+    ]
   }
 ]

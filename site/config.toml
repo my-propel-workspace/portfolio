@@ -7,7 +7,7 @@ theme = "resume"
     firstName = "Mahesh"
     lastName = "Sanikommu"
     address = "San Ramon, CA"
-    phone = "1-785-214-3209"
+    phone = "+1-785-214-3209"
     contactNote = "Dev Tools Engineer"
     profileImage = "/img/13221336_10209547928000774_7125687210749509266_o.jpg"
     email = "maheshreddy.sanikommu@ge.com"
@@ -32,19 +32,19 @@ theme = "resume"
     name = "GitHub"
     link = "https://github.com/mahesh-sanikommu/"
 
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
+#[[params.handles]]
+    #name = "Bitbucket"
+    #link = "https://bitbucket.org/eddiewebb/"
 
 [[params.handles]]
     name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
+    link = "https://stackoverflow.com/users/12441125/mahesh"
     icon = "stack-overflow"
 
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "key"
+#[[params.handles]]
+  #  name = "Keybase"
+    #link = "https://keybase.io/edwardawebb"
+    #icon = "key"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"
