@@ -1,16 +1,15 @@
 [
-    {
-        "school":"Wichita State University",
-        "degree":"Master of Science",
-        "major":"Electrical Engineering",
-        "range":"2013 - 2014"
-    },
-    {
-        "school":"Jawaharlal nehru technological university",
-        "degree":"Bachelor of Technology",
-        "major":"Electronics and Communication Engineering ",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2008 - 20012"
-    }
-
+  {
+    "school": "Wichita State University",
+    "degree": "Master of Science",
+    "major": "Electrical Engineering",
+    "range": "2013 - 2014"
+  },
+  {
+    "school": "Jawaharlal nehru technological university",
+    "degree": "Bachelor of Technology",
+    "major": "Electronics and Communication Engineering ",
+    "notes": "Beta Gamma Signma, High Honors",
+    "range": "2008 - 2012"
+  }
 ]
